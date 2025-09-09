@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Uniformes & Cia - Site em Confecção</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background-color: #ffffff;
+      color: #002147;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      height: 100vh;
+      text-align: center;
+    }
+    img {
+      max-width: 250px;
+      margin-bottom: 20px;
+    }
+    h1 {
+      font-size: 1.8rem;
+      margin: 0;
+    }
+    p {
+      font-size: 1rem;
+      margin: 6px 0;
+    }
+    footer {
+      position: absolute;
+      bottom: 20px;
+      font-size: 0.9rem;
+      color: #444;
+    }
+    footer a {
+      color: #002147;
+      text-decoration: none;
+      margin: 0 8px;
+    }
+    .enderecos {
+      margin-bottom: 10px;
+    }
+  </style>
+</head>
+<body>
+  <img src="logo.png" alt="Uniformes & Cia - 40 anos">
+  <h1>Nosso site está em <strong>confecção</strong> 🧵</h1>
+  <p>Em breve você poderá vestir essa novidade.</p>
+
+  <footer>
+    <div class="enderecos">
+      <p><strong>Campinas</strong>: Rua Cristóvão Colombo, 386 – Guanabara – Campinas/SP</p>
+      <p>Tel: (19) 3232-7075 | Whats: <a href="https://wa.me/5519994067483">(19) 99406-7483</a> | Insta: <a href="https://www.instagram.com/uniformescia">@uniformescia</a></p>
+      
+      <p><strong>Jundiaí</strong>: Rua Bom Jesus de Pirapora, 80 – Centro – Jundiaí/SP</p>
+      <p>Whats: <a href="https://wa.me/5511973079439">(11) 97307-9439</a> | Insta: <a href="https://www.instagram.com/uniformescia.jundiai">@uniformescia.jundiai</a></p>
+    </div>
+  </footer>
+</body>
+</html>
